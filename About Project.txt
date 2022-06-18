@@ -1,0 +1,13 @@
+During the covid-19 situation where all workplaces and schools were closed,
+the use of mobile phones and watching YouTube videos for learning have
+been increased among students. Children usually require a common platform in which all of their needs can be satisfied. There is a need to develop
+such an application for them. My idea is to develop an android application
+for children by providing them with the videos on their interested areas
+available from YouTube discarding unnecessary videos that may distract
+them.
+Viewers can switch from typical kids programming to some of the unusual videos Bridle mentioned with a simple click. Due to YouTube’s auto
+play feature, it doesn’t always take any user activity to reach these clips.
+Rather than removing YouTube from children’s access, it is critical to promote their supervised and filtered use of the platform. There are apps like
+YouTube kids which usually has cartoons and related videos which can be
+useful for only primary level kids. There are no videos on such apps that
+can meet all the interests of a child. So i developed one to meet their needs.
